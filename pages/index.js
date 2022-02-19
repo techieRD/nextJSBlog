@@ -22,6 +22,8 @@ const index =() => {
       <p>I have added more changes.  Now I am having issues with the build failing in AWS. Not sure what the problem is.</p>
 
       <p>Hallelujah!! I finally got it. It is now 9:30 pm. Success at last. My app is now live. Do you see me doing the happy dance?  HaHa!! I don't know how to add a dancing gif, so for now you will just have to imagine it. Now I can finally go eat and give my brain a break.</p>
+
+      <p>It is Saturday 19th of February and I want to code. But first I have to go train at the gym.</p>
     <Layout />
     <h2>
         <Link href="/posts/first-post">
